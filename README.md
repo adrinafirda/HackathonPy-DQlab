@@ -31,13 +31,13 @@ Retail transaction records from DQFresh Mart covering **February – March 2025*
 
 | Field | Description |
 |---|---|
-| Invoice No. | Unique transaction identifier |
-| Date | Transaction date |
-| Product Code | Unique product identifier |
-| Product Name | Name of the product |
-| Quantity | Units sold per transaction |
-| Unit Price | Price per unit |
-| Total Sales | Total transaction value |
+| nomor_struk | (Invoice No.)Unique transaction identifier |
+| tgl_transaksi | (Date) Transaction date |
+| kode_produk | (Product Code) Unique product identifier |
+| nama_produk | (Product Name) Name of the product |
+| jumlah_terjual | (Quantity) Units sold per transaction |
+| harga | (Unit Price) Price per unit |
+| total_nilai | (Total Sales) Total transaction value |
 
 ---
 
